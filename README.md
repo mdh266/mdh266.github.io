@@ -9,7 +9,7 @@ To clone and rebuild:
 
     git clone git@github.com:mdh266/mdh266.github.io.git
 
-    cd mdh266.github.ip
+    cd mdh266.github.io
 
     git submodule init
 
