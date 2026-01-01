@@ -44,18 +44,19 @@ Insight Data Science Postdoctoral Fellowship
 
 <h4> United States Coast Guard Auxiliary (2021 - Present)</h4>
 <ul class="fa-ul mb-0">
-<li> <i class="fa-li fa fa-ship"></i> Vice Flotilla Commander (2024, 2025) </li>
-<li> <i class="fa-li fa fa-ship"></i> Flotilla Staff Officer (2023) </li>
-<li>  <i class="fa-li fa fa-anchor text-warning"></i> Auxiliary Commandant Letter of Commendation </li>
-<li> <i class="fa-li fa fa-anchor text-warning"></i> Coast Guard Unit Commendation </li>
-<li> <i class="fa-li fa fa-anchor text-warning"></i> 7x Coast Guard Meritorious Team Commendation </li>
+<li> <i class="fa-li fa fa-ship"></i> Vice Flotilla Commander (2024, 2025, 2026) </li>
+<li> <i class="fa-li fa fa-ship"></i> Flotilla Staff Officer, Rescue & Survival  (2025, 2026) </li>
+<li> <i class="fa-li fa fa-ship"></i> Flotilla Staff Officer, Vessel Examination (2023) </li>
+<li>  <i class="fa-li fa fa-anchor text-warning"></i> Auxiliary Commandant Letter of Commendation (2024)</li>
+<li> <i class="fa-li fa fa-anchor text-warning"></i> Coast Guard Unit Commendation (2024)</li>
+<li> <i class="fa-li fa fa-anchor text-warning"></i> 7x Coast Guard Meritorious Team Commendation (2022, 2023, 2024, 2025)</li>
 </ul>
 
 <h4>Computational Applied Mathematics (2003 - 2016)</h4>
 <ul class="fa-ul mb-0">
 <li>
 <i class="fa-li fas fa-solid fa-graduation-cap"></i>
-PhD from University of Texas at Austin
+<a href="http://hdl.handle.net/2152/46973">PhD from University of Texas at Austin</a>
 </li>
 <li>
 <i class="fa-li fas fa-solid fa-graduation-cap"></i>
@@ -63,7 +64,7 @@ Bachelors in Mathematics from New York University
 </li>
 <li>
 <i class="fa-li fas fa-award text-warning"></i>
-National Science Foundation RTG Fellowship (Univ. of Texas at Austin)
+<a href="https://www.nsf.gov/funding/opportunities/rtg-research-training-groups-mathematical-sciences">National Science Foundation (NFS) RTG Fellowship</a> (Univ. of Texas at Austin)
 </li>
 <li>
 <i class="fa-li fas fa-laptop"></i>
@@ -94,13 +95,13 @@ Founder's Day Award (New York University)
 World Champion, Brown Belt, 2012  </li>
 <li>
 <i class="fa-li fa fa-trophy text-warning"></i>
-Ranked 8th in World Pound-For-Pound, Brown Belt, 2012</li>
+Ranked 8th in World Pound-For-Pound by IBJJF, Brown Belt, 2012</li>
 <li>
 <i class="fa-li fa fa-trophy text-secondary"></i>
 2 x Pan American Bronze Medalist, Brown Belt, 2011, 2012</li>
 <li>
 <i class="fa-li fa fa-trophy text-warning"></i>
-3 x North American Grapplers Association Champion, 2001, 2008, 2011</li>
+3 x North American Grapplers Association (NAGA) Champion, 2001, 2008, 2011</li>
 <li>
 <i class="fa-li fa fa-trophy text-warning"></i>
 Texas State Champion, 2013
