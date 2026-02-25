@@ -3,7 +3,7 @@
 I'm a AI/ML Engineer and Data Scientist based in New York City, with 10 years of experience solving complex business and technical problems through data. I specialize in end-to-end development of scalable machine learning solutions, and have worked on and led cross-functional teams with projects spanning supervised/unsupervised learning, AutoML, optimization, entity resolution, natural language processing, geospatial analysis, econometrics, marketing analytics and generative artificial intelligence (GenAI). 
 </br>
 </br>
-Since 2017, I’ve been working extensively with <a href="https://spark.apache.org/">Apache Spark</a> in both Python and Scala, building high-performance data pipelines and distributed systems, leading to two patents. More recently, I’ve been focused on building applications powered by GenAI and large language models (LLMs), with a strong interest in <a href="https://www.langchain.com/">LangChain</a> and <a href="https://www.langchain.com/langgraph">LangGraph</a> frameworks. I lead with a blend of hands-on technical skill and strategic vision—driven by a passion for technology, a commitment to team growth, and a focus on solving complex problems with real-world impact.
+From 2017 to 2022 I worked extensively with <a href="https://spark.apache.org/">Apache Spark</a> in both Python and Scala. During this time I built high-performance data and machine learning pipelines using distributed systems, leading to two patents. In 2022 I switched from building and deploying models to leading efforts in developing and maintaining novel machine learning tools for data scientists. Since 2024, I’ve been focused on building applications powered by GenAI and large language models (LLMs), with a strong interest in <a href="https://www.langchain.com/">LangChain</a> and <a href="https://www.langchain.com/langgraph">LangGraph</a> frameworks. I lead with a blend of hands-on technical skill and strategic vision, driven by a passion for technology, a commitment to team growth, and a focus on solving complex problems with real-world impact.
 </br>
 </br>
 With a <a href="https://repositories.lib.utexas.edu/server/api/core/bitstreams/ee56a75d-c4e1-4b65-83b7-5ab8e7de9ddc/content">PhD in Computational Applied Mathematics</a> from the <a href="https://oden.utexas.edu/">University of Texas at Austin</a> I have a strong background in both quantitative methods and scientific software engineering. My focus during graduate school was on researching <a href="https://en.wikipedia.org/wiki/Discontinuous_Galerkin_method">discontinuous Galerkin methods</a> and <a href="https://en.wikipedia.org/wiki/Finite_element_method">finite element methods</a> for simulating <a href="https://en.wikipedia.org/wiki/Photoelectrochemical_cell">photo-electrochemical solar cells</a> which led me to contribute multiple times to the open source finite element library, <a href="https://www.dealii.org/">deal.ii</a>.
@@ -26,11 +26,15 @@ In another life, I was a competitive athlete and coach in Brazilian Jiu Jitsu fo
 <ul class="fa-ul mb-0">
 <li>
 <i class="fa-li fas fa-solid fa-users"></i>
-Director of Applied AI/ML at J.P. Morgan Chase
+Currently an Artifical Intelligence Engineer at <a href="https://www.mlp.com/">Millennium</a> (2026-Present)
+</li>
+<li>
+<i class="fa-li fas fa-solid fa-users"></i>
+Previous was a Director of Applied AI/ML at <a href="https://www.jpmorganchase.com/">J.P. Morgan Chase</a> (2024-2026)
 </li>
 <li>
 <i class="fa-li fas fa-solid fa-cube"></i>
-2 patents on Entity Resolution methods
+2 patents on Entity Resolution methods 
 </li>
 <li>
 <i class="fa-li fas fa-solid fa-medal text-warning"></i>
