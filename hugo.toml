@@ -30,9 +30,9 @@ author = "Mike Harmon"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Mike Harmon's personal website"
 keywords = "blog,data,ai"
-info = ["AI/ML Engineer & Data Scientist", "PhD in Computational Applied Math"]
-# avatarURL = "images/me.jpg"
-#gravatar = "mdh266@gmail.com"
+info = ["AI/ML Engineer & Data Scientist", "PhD in Computational Applied Mathematics"]
+# avatarURL = "assets/images/me.jpg"
+# gravatar = "assets/images/me.jpg"
 dateFormat = "January 2, 2006"
 since = 2016
 
