@@ -12,7 +12,7 @@ With a <a href="https://repositories.lib.utexas.edu/server/api/core/bitstreams/e
 In my free time, I proudly serve in the <a href="https://cgaux.org/about.php">U.S. Coast Guard Auxiliary</a>, the uniformed volunteer component of the United States Coast Guard. 
 </br>
 </br>
-In another life, I was a competitive athlete and coach in Brazilian Jiu Jitsu for over 17 years. During my career I trained with and competed against the best fighters all over the world. In 2012, I won the World Championships and in 2015 achieved the rank of 1st degree Black Belt from 2x Pan American Champion <a href="https://www.ginsbergacademy.com/">Professor Dave Ginsberg</a>. I also had the privlage of coaching hundreds of students and I am proud to have created local, national and world champions. Despite having to stop training, I am grateful for the all experiences and to have had an amazing coach along with great mentors, sponsors, friends, teammates and students.
+In another life, I was a competitive athlete and coach in Brazilian Jiu Jitsu for over 17 years. During my career I trained with and competed against the best fighters all over the world. In 2012, I won the World Championships and in 2015 achieved the rank of 1st degree Black Belt from 2x Pan American Champion <a href="https://www.ginsbergacademy.com/">Professor Dave Ginsberg</a>. I also had the privilage of coaching hundreds of students and I am proud to have created local, national and world champions. Despite having to stop training, I am grateful for the all experiences and to have had an amazing coach along with great mentors, sponsors, friends, teammates and students.
 </p>
 
 </br>
