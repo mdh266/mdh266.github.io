@@ -1,3 +1,8 @@
+# Personal Projects
+--------------------------
+My personal projects can be broken into two types: Web Applications and Open Source Libraries.
+
+
 ## Web Applications
 -------
 These are full blow web applications that I have deployed on [Google Cloud Platform](https://cloud.google.com)
@@ -63,7 +68,7 @@ A Serverless Speech-To-Image App
 
 
 
-## Open Source Software & Libraries 
+## Open Source Libraries 
 -------------
 These are libraries that I have either authored or been a contributor.
 

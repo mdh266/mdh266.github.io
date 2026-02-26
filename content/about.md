@@ -30,7 +30,7 @@ Currently an Artifical Intelligence Engineer at <a href="https://www.mlp.com/">M
 </li>
 <li>
 <i class="fa-li fas fa-solid fa-users"></i>
-Previous was a Director of Applied AI/ML at <a href="https://www.jpmorganchase.com/">J.P. Morgan Chase</a> (2024-2026)
+Previously a Director of Applied AI/ML at <a href="https://www.jpmorganchase.com/">J.P. Morgan Chase</a> (2024-2026)
 </li>
 <li>
 <i class="fa-li fas fa-solid fa-cube"></i>
