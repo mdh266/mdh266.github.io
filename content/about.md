@@ -26,12 +26,12 @@ In another life, I was a competitive athlete and coach in Brazilian Jiu Jitsu fo
 <ul class="fa-ul mb-0">
 <li>
 <i class="fa-li fas fa-solid fa-users"></i>
-Currently an Artifical Intelligence Engineer at <a href="https://www.mlp.com/">Millennium</a> (2026-Present)
+Currently an Artifical Intelligence Engineer (2026-Present) <!-- at <a href="https://www.mlp.com/">Millennium</a> -->
 </li>
 <li>
 <i class="fa-li fas fa-solid fa-users"></i>
 Previously a Director of Applied AI/ML at <a href="https://www.jpmorganchase.com/">J.P. Morgan Chase</a> (2024-2026)
-</li>
+</li> 
 <li>
 <i class="fa-li fas fa-solid fa-cube"></i>
 2 patents on Entity Resolution methods 
