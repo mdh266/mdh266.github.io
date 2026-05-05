@@ -81,8 +81,14 @@ url = "https://www.linkedin.com/in/michaeldavidharmon/"
 [[params.social]]
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
-weight = 1
+weight = 3
 url = "https://github.com/mdh266/"
+
+[[params.social]]
+name = "Email Me"
+icon = "fa-solid fa-envelope fa-2x"
+weight = 1
+url = "mailto:mdh266@gmail.com"
 
 [[languages.en.menu.main]]
 name = "About Me"
@@ -90,21 +96,21 @@ weight = 1
 url = "about"
 
 [[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
-
-[[languages.en.menu.main]]
 name = "Skills"
-weight = 4
+weight = 2
 url = "skills"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Blog"
+weight = 3
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Open Source Projects"
 weight = 5
-url = "contact/"
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Web Apps"
+weight = 4
+url = "apps/"

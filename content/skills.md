@@ -1,14 +1,14 @@
 # Skills
 --------
+The primary languages, libraries, frameworks and platforms I've used through out my career are,
 
-**Languages:**  Python, SQL, Scala, Bash, C/C++, Java, HTML
 
-**Machine Learning:** Scikit-learn, XGBoost, LightGBM, Keras/TensorFlow, StatsModels, Shap, MLlib, PuLP
+**Languages:**  Python, SQL, Scala, C/C++
 
-**AI Engineering:**  OpenAI, Claude, LangChain, LangGraph, HuggingFace, Groq, Ollama, Pinecone, NLTK
+**Machine Learning:** Scikit-learn, XGBoost, LightGBM, Keras/TensorFlow, StatsModels
 
-**Data Engineering:** Pandas, Spark, Hive, Airflow, SQLAlchemy, MongoDB, Postgres, SQLServer, Teradata
+**AI Engineering:**  OpenAI, Claude, LangChain, HuggingFace, Pinecone, NLTK
 
-**Development:** GitHub, Bitbucket, Docker, Flask, FastAPI, Streamlit, GitHub Actions, Claude Code
+**Data Engineering:** Pandas, Spark, Hive, SQL, MongoDB, Airflow
 
-**Platforms:** Mac, Linux, Hadoop, Google Cloud, AWS, Databricks
+**Infrastructure:** GitHub, Docker, Flask, FastAPI, CI/CD, Google Cloud, Hadoop
