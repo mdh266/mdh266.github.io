@@ -1,11 +1,11 @@
-# Tech Stack
+# Skills
 -------------
 The primary languages, libraries, frameworks and platforms I've used through out my career are,
 
 
 **Languages:**  Python, SQL, Scala, C/C++
 
-**Data Science & ML:** Pandas, Scikit-learn, XGBoost, LightGBM, Keras, StatsModels, MLflow
+**Data Science:** Pandas, Scikit-learn, XGBoost, LightGBM, Keras, StatsModels, Optuna, MLflow
 
 **AI Engineering:**  OpenAI, Claude, LangChain, HuggingFace, Pinecone, FastMCP, LangSmith
 

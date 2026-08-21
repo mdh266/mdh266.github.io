@@ -96,7 +96,7 @@ weight = 1
 url = "about"
 
 [[languages.en.menu.main]]
-name = "Tech Stack"
+name = "Skills"
 weight = 5
 url = "skills"
 
