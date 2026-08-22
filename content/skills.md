@@ -11,4 +11,4 @@ The primary languages, libraries, frameworks and platforms I've used through out
 
 **Data Engineering:** Pandas, Spark, Hive, Hadoop, Snowflake, MongoDB, Airflow, Flask, FastAPI
 
-**Cloud & DevOps:** Google Cloud, GitHub, Docker, CI/CD
+**Cloud & DevOps:** Google Cloud, AWS, GitHub, Docker, CI/CD
