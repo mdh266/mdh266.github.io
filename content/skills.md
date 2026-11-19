@@ -13,7 +13,7 @@ The primary languages, libraries, frameworks and platforms I've used through out
 
 **Databases:**  Postgres, SQL Server, MongoDB, Pinecone
 
-**Software Engineering:** Flask, FastAPI, PyTest, ScalaTest, Maven
+**Software Engineering:** Flask, FastAPI, PyTest, ScalaTest, Maven, CMake
 
 **MLOps & Observability:** MLflow, LangSmith
 
